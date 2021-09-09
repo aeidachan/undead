@@ -1,7 +1,7 @@
 {
-   "title":"MILK TEA",
+   "title":"UNDEAD",
    "description":"Hikaru is a high school student who was attacked by his zombified mother. He escaped together with his childhood friend, Ai, whom he looked up to as an older brother. However, Hikaru is unable to accept the misfortune that suddenly befell him. On the other hand, Ai, who has watched over Hikaru since they were young…",
-   "author":"Kumaneko",
+   "author":"Tsuyuhisa Fumi",
    "cover":"https://xfs-000.animemark.net/pictures/W600/8d8/8d8996d91d409236f2b4cf0b4962c22f7f2f9f9d_1032_1429_619141.jpeg?acc=A8K62gBB2_h3GauHyJnu6w&exp=1631239318",
    "chapters":{
       "1":{
@@ -17,6 +17,14 @@
          "volume":"1",
          "groups":{
             "GGScansBL":"/proxy/api/imgur/chapter/OnhK2yw/"
+         },
+         "last_updated":"1626713100"
+      },
+       "3":{
+         "title":"Chapter 3",
+         "volume":"1",
+         "groups":{
+            "GGScansBL":"/proxy/api/imgur/chapter/Hi9Vffs/"
          },
          "last_updated":"1626713100"
       }
