@@ -27,6 +27,14 @@
             "GGScansBL":"/proxy/api/imgur/chapter/Hi9Vffs/"
          },
          "last_updated":"1626713100"
+      },
+       "4":{
+         "title":"Chapter 4",
+         "volume":"1",
+         "groups":{
+            "GGScansBL":"/proxy/api/imgur/chapter/OU1Wa7e/"
+         },
+         "last_updated":"1632789521"
       }
    }
 }
